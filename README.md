@@ -2,6 +2,8 @@
 
 Here's a list of my favorite things I typically have on or by me.
 
+**Fork this and add your own!**
+
 ## Devices
 
 - [MacBook Air 13"](http://www.apple.com/macbook-air)
