@@ -11,7 +11,7 @@ Here's a list of my favorite things I typically have on or by me.
 ## Accessories
 
 - [M2 iPhone Stand](http://www.amazon.com/elago-iphones-Smartphones-Support-FaceTime/dp/B002OLM56K)
-- [Bopple Water Bottle](http://www.amazon.com/Bobble-Water-Bottle-18-5-Ounce-Lavender/dp/B004O8LVMA/ref=sr_1_1?ie=UTF8&qid=1421012582&sr=8-1&keywords=bopple)
+- [Bobble Water Bottle](http://www.amazon.com/Bobble-Water-Bottle-18-5-Ounce-Lavender/dp/B004O8LVMA/ref=sr_1_1?ie=UTF8&qid=1421012582&sr=8-1&keywords=bopple)
 - [Kingston 16GB USB Drive](http://www.amazon.com/Kingston-Digital-DataTraveler-DTGE9-16GBZ/dp/B009CMN3WY)
 - [Pencil by 53](https://www.fiftythree.com/pencil)
 
