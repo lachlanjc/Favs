@@ -20,6 +20,14 @@ Here's a list of my favorite things I typically have on or by me.
 - [Everlane Twill Snap Backpack](https://www.everlane.com/collections/mens-backpacks/products/mens-twill-backpack-bone)
 - [Reef Walled (high tops)](http://shop.reef.com/reef-walled/d/1893_c_109_cl_7068)
 
+## Apps
+
+- [Jot](http://getjotapp.com)
+- [Instagram](http://instagram.com)
+- [Twitter](http://twitter.com)
+- [Snapchat](https://www.snapchat.com)
+- [Flipboard](http://flipboard.com)
+
 ## Publications
 
 - [Offscreen Magazine](http://www.offscreenmag.com)
