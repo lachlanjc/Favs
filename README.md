@@ -27,6 +27,8 @@ Here's a list of my favorite things I typically have on or by me.
 - [Twitter](http://twitter.com)
 - [Snapchat](https://www.snapchat.com)
 - [Flipboard](http://flipboard.com)
+- [Mailbox](http://www.mailboxapp.com)
+- [Sublime Text](http://www.sublimetext.com)
 
 ## Publications
 
