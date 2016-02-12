@@ -7,7 +7,7 @@ Here's a list of my favorite things I typically have on or by me.
 ## Devices
 
 - [Apple Watch, 38mm](http://www.apple.com/watch)
-- [iPhone 5s](http://www.apple.com/iphone)
+- [iPhone 6s](http://www.apple.com/iphone)
 - [MacBook Pro with Retina Display, 13"](http://www.apple.com/macbook-pro)
 
 ## Accessories
@@ -16,9 +16,9 @@ Here's a list of my favorite things I typically have on or by me.
 
 ## Apps
 
-- [Atom](http://atom.io)
 - [Evernote](https://evernote.com)
 - [Dark Sky](http://forecast.io)
+- [Basecamp](https://basecamp.com)
 - [Things](http://www.culturedcode.com)
 - [Sketch](http://bohemiancoding.com/sketch)
 - [Ember](http://realmacsoftware.com/ember)
